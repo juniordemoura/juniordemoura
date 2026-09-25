@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0a2472,100:0f52ba&height=180&section=header&text=Mauricio%20Moura&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Dev%20Backend%20em%20forma%C3%A7%C3%A3o&descAlignY=65&descSize=16" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0a2472,100:0f52ba&height=180&section=header&text=Mauricio%20Moura&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Dev%20Backend%20em%20forma%C3%A7%C3%A3o&descAlignY=65&descSize=16](https://media.licdn.com/dms/image/v2/D4D16AQF94HPOwVNagA/profile-displaybackgroundimage-shrink_350_1400/B4DZyIdDutGUAY-/0/1771815845510?e=1792022400&v=beta&t=xIS6vOjlB2wMenA0DSmxaaBOFfTf-2E8Hz395WBXy2Q)" width="100%"/>
 </div>
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unicid (turma 2026) e trabalho atualmente como desenvolvedor na **Pés Sem Dor**, onde uso Kanban no dia a dia. Moro em São Paulo, zona leste, e estou construindo minha base como dev backend.
