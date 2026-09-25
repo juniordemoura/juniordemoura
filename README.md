@@ -2,7 +2,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQF94HPOwVNagA/profile-displaybackgroundimage-shrink_350_1400/B4DZyIdDutGUAY-/0/1771815845510?e=1792022400&v=beta&t=xIS6vOjlB2wMenA0DSmxaaBOFfTf-2E8Hz395WBXy2Q" width="100%"/>
 </div>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unicid (turma 2026) e trabalho atualmente como desenvolvedor na **Pés Sem Dor**, onde uso Kanban no dia a dia. Moro em São Paulo, zona leste, e estou construindo minha base como dev backend.
+**Análise e Desenvolvimento de Sistemas**, e trabalho atualmente como Estagiário na **Pés Sem Dor**, onde uso Kanban no dia a dia. Moro em São Paulo, zona leste.
 
 Comecei mexendo com HTML, CSS e JavaScript puro (sem framework, sem frescura) e fui indo pra Python e MySQL conforme os projetos da faculdade e os pessoais foram pedindo. Gosto de entender o que o código faz antes de sair colando biblioteca em cima de biblioteca.
 
